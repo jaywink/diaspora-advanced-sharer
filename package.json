@@ -2,7 +2,7 @@
     "name": "diaspora-advanced-sharer", 
     "license": "MPL 2.0", 
     "author": "jaywink", 
-    "version": "0.3.4", 
+    "version": "0.4.0", 
     "fullName": "Diaspora Advanced Sharer", 
     "id": "jid0-8sbuIWtTuQjPXlRecI940XM2Kro@jetpack", 
     "description": "A button to share on Diaspora* via Diaspora* Advanced Sharer (http://sharetodiaspora.github.com/about/)."
